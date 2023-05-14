@@ -1,4 +1,4 @@
-# ¿Cómo funcionan las IA's de texto a imagen? :herb::fallen_leaf:
+# ¿Cómo funcionan las IA's de texto a imagen? :robot::paintbrush:
 
 ### Descubre cómo funciona esta nueva tecnología
 </br>
